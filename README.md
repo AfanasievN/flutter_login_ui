@@ -2,6 +2,9 @@
 
 Learn flutter login ui
 
+by youtube video [Minimal Login UI • Flutter Tutorial ♡](https://www.youtube.com/watch?v=aJdIkRipgSk)
+Image [flutter_01.png](flutter_01.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
